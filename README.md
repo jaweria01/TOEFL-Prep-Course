@@ -14,10 +14,6 @@
 - [Ayesha Amin](https://www.linkedin.com/in/ayesha-amin-652790327)  
 - [Asad Ullah Khan](https://www.linkedin.com/in/asad-ullah-824b8136a/)
 
-
-📧 **Email:** inzimam3326@gmail.com  
-📞 **Telephone:** —  
-
 ---
 
 ## 📝 Course Description  
