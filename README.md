@@ -189,6 +189,41 @@ Watch and review anytime to strengthen your TOEFL preparation!
 
 ---
 
+# 📝 TOEFL 4-Week Intensive Course Plan
+
+> **Duration:** 4 Weeks — 5 Days per Week — 20 Sessions  
+> **Modules Covered:** Reading, Listening, Speaking, Writing
+
+---
+
+## 📅 Course Schedule Table
+
+| Week | Day | Date | Session # | Module | Trainer | Topics Covered | YouTube Link | Slides/Content |
+|---|---:|---|---:|---|---|---|---|---|
+| 1 | 1 |  | 1 | Reading |  | TOEFL Format, Scoring, Diagnostic Mini Test |  |  |
+| 1 | 2 |  | 2 | Reading |  | Facts, Negative Facts, Vocab in Context, Reference, Inference, Rhetorical Purpose |  |  |
+| 1 | 3 |  | 3 | Reading |  | Sentence Simplification, Insert Text, Prose Summary, Organization/Table |  |  |
+| 1 | 4 |  | 4 | Reading |  | Review All Question Types, Strategies, Skimming/Scanning, Elimination |  |  |
+| 1 | 5 |  | 5 | Reading |  | Full Reading Simulation + Error Analysis + Vocab Review |  |  |
+| 2 | 1 |  | 6 | Listening |  | Gist Content, Detail, Function, Note-Taking Techniques |  |  |
+| 2 | 2 |  | 7 | Listening |  | Attitude, Inference, Organization, Emotional Tone Recognition |  |  |
+| 2 | 3 |  | 8 | Listening |  | Full Lecture Practice + Strategy Refinement |  |  |
+| 2 | 4 |  | 9 | Listening |  | Score Boost Strategies, Recovery Methods, Predictive Listening |  |  |
+| 2 | 5 |  | 10 | Listening |  | Timed Listening Test + Self-Evaluation |  |  |
+| 3 | 1 |  | 11 | Speaking |  | Format, Scoring, Independent vs Integrated Overview |  |  |
+| 3 | 2 |  | 12 | Speaking |  | Independent Speaking Organization, Idea Generation, Pronunciation |  |  |
+| 3 | 3 |  | 13 | Speaking |  | Integrated (Read+Listen+Speak), Summaries, Campus Tasks |  |  |
+| 3 | 4 |  | 14 | Speaking |  | Integrated Lecture Response, Transitions, Delivery Improvement |  |  |
+| 3 | 5 |  | 15 | Speaking |  | Full Speaking Simulation + Feedback |  |  |
+| 4 | 1 |  | 16 | Writing |  | Writing Format, Rubrics, Sample Essay Analysis |  |  |
+| 4 | 2 |  | 17 | Writing |  | Integrated Writing (R+L+W), Paraphrasing, Connectors |  |  |
+| 4 | 3 |  | 18 | Writing |  | Independent Essay Structure, Cohesion, Transitions |  |  |
+| 4 | 4 |  | 19 | Writing |  | Grammar Issues, Academic Vocabulary, Quick Quiz (R+L) |  |  |
+| 4 | 5 |  | 20 | Writing |  | Full TOEFL Mock Test + Strategy Plan |  |  |
+
+
+---
+
 
 ## 💡 Study Tips  
 Students are strongly encouraged to:  
