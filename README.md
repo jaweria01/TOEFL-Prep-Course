@@ -200,9 +200,9 @@ Watch and review anytime to strengthen your TOEFL preparation!
 
 ## 📅 Course Schedule Table
 
-| Week | Day | Date | Session No | Module | Trainer | Topics Covered | YouTube Link | Slides/Content |
-|---|---:|---|-----|----|----|----|----|---|
-| 1 | 1 |  | 1 | Reading |  | TOEFL Format, Scoring, Diagnostic Mini Test | [Video-Link]()  | [Slide]() |
+| Week | Day | Date | Session:No | Module | Trainer | Topics Covered | YouTube-Link | Slides/Content |
+|---|--:|---|----|----|----|----|----|---|
+| 1 | 1 |  | 1 | Reading |  | TOEFL Format, Scoring, Diagnostic Mini Test | [Vid-Link]()  | [Slide]() |
 | 1 | 2 |  | 2 | Reading |  | Facts, Negative Facts, Vocab in Context, Reference, Inference, Rhetorical Purpose | [Video-Link]() | [Slide]() |
 | 1 | 3 |  | 3 | Reading |  | Sentence Simplification, Insert Text, Prose Summary, Organization/Table | [Video-Link]() | [Slide]() |
 | 1 | 4 |  | 4 | Reading |  | Review All Question Types, Strategies, Skimming/Scanning, Elimination | [Video-Link]() | [Slide]() |
