@@ -198,8 +198,6 @@ Watch and review anytime to strengthen your TOEFL preparation!
 
 ## 📅 Course Schedule Table
 
-## 📅 Course Schedule Table
-
 | Week | Day | Date | Session:No | Module | Trainer | Topics Covered | YouTube-Link | Slides/Content |
 |--|--:|---|---|---|----|----|----|---|
 | 1 | 1 |  | 1 | Reading | Inzimam | TOEFL Format, Scoring, Diagnostic Mini Test | [Vido-Link]()  | [Slide]() |
