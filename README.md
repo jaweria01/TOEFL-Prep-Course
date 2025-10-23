@@ -202,10 +202,10 @@ Watch and review anytime to strengthen your TOEFL preparation!
 
 | Week | Day | Date | Session:No | Module | Trainer | Topics Covered | YouTube-Link | Slides/Content |
 |--|--:|---|---|---|----|----|----|---|
-| 1 | 1 |  | 1 | Reading |  | TOEFL Format, Scoring, Diagnostic Mini Test | [Vido-Link]()  | [Slide]() |
-| 1 | 2 |  | 2 | Reading |  | Facts, Negative Facts, Vocab in Context, Reference, Inference, Rhetorical Purpose | [Video-Link]() | [Slide]() |
-| 1 | 3 |  | 3 | Reading |  | Sentence Simplification, Insert Text, Prose Summary, Organization/Table | [Video-Link]() | [Slide]() |
-| 1 | 4 |  | 4 | Reading |  | Review All Question Types, Strategies, Skimming/Scanning, Elimination | [Video-Link]() | [Slide]() |
+| 1 | 1 |  | 1 | Reading | Inzimam | TOEFL Format, Scoring, Diagnostic Mini Test | [Vido-Link]()  | [Slide]() |
+| 1 | 2 |  | 2 | Reading | Inzimam | Facts, Negative Facts, Vocab in Context, Reference, Inference, Rhetorical Purpose | [Video-Link]() | [Slide]() |
+| 1 | 3 |  | 3 | Reading | Jaweria | Sentence Simplification, Insert Text, Prose Summary, Organization/Table | [Video-Link]() | [Slide]() |
+| 1 | 4 |  | 4 | Reading | Jaweria | Review All Question Types, Strategies, Skimming/Scanning, Elimination | [Video-Link]() | [Slide]() |
 | 1 | 5 |  | 5 | Reading |  | Full Reading Simulation + Error Analysis + Vocab Review | [Video-Link]() | [Slide]() |
 | 2 | 1 |  | 6 | Listening |  | Gist Content, Detail, Function, Note-Taking Techniques | [Video-Link]() | [Slide]() |
 | 2 | 2 |  | 7 | Listening |  | Attitude, Inference, Organization, Emotional Tone Recognition | [Video-Link]() | [Slide]() |
@@ -224,9 +224,7 @@ Watch and review anytime to strengthen your TOEFL preparation!
 | 4 | 5 |  | 20 | Writing |  | Full TOEFL Mock Test + Strategy Plan | [Video-Link]() | [Slide]() |
 
 
-
 ---
-
 
 ## 💡 Study Tips  
 Students are strongly encouraged to:  
