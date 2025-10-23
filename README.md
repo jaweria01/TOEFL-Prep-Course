@@ -43,7 +43,8 @@ This course is ideal for **students and professionals** aiming to pursue **highe
 
 ### **Additional/Recommended Websites**  
 1. [Koolearn TOEFL Listening Practice](https://liuxue.koolearn.com/toefl/listen/1307-12131-q4.html)  
-2. [TestAdmit TOEFL Practice Tests](https://testadmit.com/toefl/?testType=quick&isNew=1)  
+2. [TestAdmit TOEFL Practice Tests](https://testadmit.com/toefl/?testType=quick&isNew=1)
+3. [[PDF book Guide](https://drive.google.com/file/d/1prhZ8cJsyVxDpGHNT8ic0PTPoh29xXRc/view?usp=sharing)]
 
 📘 *Additional readings will be provided during the course.*
 
