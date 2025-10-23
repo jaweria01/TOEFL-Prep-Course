@@ -200,8 +200,8 @@ Watch and review anytime to strengthen your TOEFL preparation!
 
 ## 📅 Course Schedule Table
 
-| Week | Day | Date | Session # | Module | Trainer | Topics Covered | YouTube Link | Slides/Content |
-|---|---:|---|---:|----|----|-----|----|----|
+| Week | Day | Date | Session No | Module | Trainer | Topics Covered | YouTube Link | Slides/Content |
+|---|---:|---|----:|----|----|-----|-----|---|
 | 1 | 1 |  | 1 | Reading |  | TOEFL Format, Scoring, Diagnostic Mini Test | [Video-Link]() | [Slide]() |
 | 1 | 2 |  | 2 | Reading |  | Facts, Negative Facts, Vocab in Context, Reference, Inference, Rhetorical Purpose | [Video-Link]() | [Slide]() |
 | 1 | 3 |  | 3 | Reading |  | Sentence Simplification, Insert Text, Prose Summary, Organization/Table | [Video-Link]() | [Slide]() |
