@@ -201,16 +201,16 @@ Watch and review anytime to strengthen your TOEFL preparation!
 
 | Week | Day | Date | Session | Module | Trainer | Topics Covered | YouTubeReco | Contents |
 |--|--:|---|--|---|---|----|----|--|
-| 1 | 1 |  | 1 | Reading | Inzimam | TOEFL Format, Scoring, Diagnostic Mini Test | [Video-Link](https://www.youtube.com/watch?v=9nbSrcBp-mc)  | [Slide](https://docs.google.com/presentation/d/1I1_CTZr4V_0NzbPwEsH8jX073D_inqn_/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |
-| 1 | 2 |  | 2 | Reading | Inzimam | Facts, Negative Facts, Vocab in Context, Reference, Inference, Rhetorical Purpose | [Video-Link](https://www.youtube.com/watch?v=RGJFhgiv8Rg&list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z&index=1) | [Slide](https://docs.google.com/presentation/d/1g9dq0F--4PG4cZfF_XLn67qqnyySTY69/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |
-| 1 | 3 |  | 3 | Reading | Jaweria | Sentence Simplification, Insert Text, Prose Summary, Organization/Table | [Video-Link](https://www.youtube.com/watch?v=DI9TZAh0DK8&list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z&index=1) | [Slide](https://docs.google.com/presentation/d/1g9dq0F--4PG4cZfF_XLn67qqnyySTY69/edit?slide=id.g39bbebf790d_2_56#slide=id.g39bbebf790d_2_56) |
-| 1 | 4 |  | 4 | Reading | Jaweria | Review All Question Types, Strategies, Skimming/Scanning, Elimination | [Video-Link]() | [Slide](https://docs.google.com/presentation/d/1aQlImxgmhirgNLRceXzwbjMwc3IsPXE_ZXWBimxlPS8/edit?slide=id.g39c52ab95d8_0_10#slide=id.g39c52ab95d8_0_10) |
-| 1 | 5 |  | 5 | Reading |  | Full Reading Simulation + Error Analysis + Vocab Review | [Video-Link](https://www.youtube.com/watch?v=6cSO_Jg91vg&list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z&index=1&t=6s) | [Slide](https://docs.google.com/document/d/1erhdCK1kNswMVLMkwMyATGkBYv8DCY3HeofkY9JAlU4/edit?tab=t.0#heading=h.8q299f9rwqu9) |
-| 2 | 1 |  | 6 | Listening |  | Gist Content, Detail, Function, Note-Taking Techniques | [Video-Link]() | [Slide]() |
-| 2 | 2 |  | 7 | Listening |  | Attitude, Inference, Organization, Emotional Tone Recognition | [Video-Link]() | [Slide]() |
-| 2 | 3 |  | 8 | Listening |  | Full Lecture Practice + Strategy Refinement | [Video-Link]() | [Slide]() |
-| 2 | 4 |  | 9 | Listening |  | Score Boost Strategies, Recovery Methods, Predictive Listening | [Video-Link]() | [Slide]() |
-| 2 | 5 |  | 10 | Listening |  | Timed Listening Test + Self-Evaluation | [Video-Link]() | [Slide]() |
+| 1 | 1 | 20/10/25 | 1 | Reading | Inzimam | TOEFL Format, Scoring, Diagnostic Mini Test | [Video-Link](https://www.youtube.com/watch?v=9nbSrcBp-mc)  | [Slide](https://docs.google.com/presentation/d/1I1_CTZr4V_0NzbPwEsH8jX073D_inqn_/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |
+| 1 | 2 | 21/10/25 | 2 | Reading | Inzimam | Facts, Negative Facts, Vocab in Context, Reference, Inference, Rhetorical Purpose | [Video-Link](https://www.youtube.com/watch?v=RGJFhgiv8Rg&list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z&index=1) | [Slide](https://docs.google.com/presentation/d/1g9dq0F--4PG4cZfF_XLn67qqnyySTY69/edit?usp=sharing&ouid=109295301478660362224&rtpof=true&sd=true) |
+| 1 | 3 | 22/10/25 | 3 | Reading | Jaweria | Sentence Simplification, Insert Text, Prose Summary, Organization/Table | [Video-Link](https://www.youtube.com/watch?v=DI9TZAh0DK8&list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z&index=1) | [Slide](https://docs.google.com/presentation/d/1g9dq0F--4PG4cZfF_XLn67qqnyySTY69/edit?slide=id.g39bbebf790d_2_56#slide=id.g39bbebf790d_2_56) |
+| 1 | 4 | 23/10/25 | 4 | Reading | Jaweria | Review All Question Types, Strategies, Skimming/Scanning, Elimination | [Video-Link]() | [Slide](https://docs.google.com/presentation/d/1aQlImxgmhirgNLRceXzwbjMwc3IsPXE_ZXWBimxlPS8/edit?slide=id.g39c52ab95d8_0_10#slide=id.g39c52ab95d8_0_10) |
+| 1 | 5 | 24/10/25 | 5 | Reading | Jaweria | Full Reading Simulation + Error Analysis + Vocab Review | [Video-Link](https://www.youtube.com/watch?v=6cSO_Jg91vg&list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z&index=1&t=6s) | [Slide](https://docs.google.com/document/d/1erhdCK1kNswMVLMkwMyATGkBYv8DCY3HeofkY9JAlU4/edit?tab=t.0#heading=h.8q299f9rwqu9) |
+| 2 | 1 | 27/10/25 | 6 | Listening |  | Gist Content, Detail, Function, Note-Taking Techniques | [Video-Link]() | [Slide]() |
+| 2 | 2 | 28/10/25 | 7 | Listening |  | Attitude, Inference, Organization, Emotional Tone Recognition | [Video-Link]() | [Slide]() |
+| 2 | 3 | 29/10/25 | 8 | Listening |  | Full Lecture Practice + Strategy Refinement | [Video-Link]() | [Slide]() |
+| 2 | 4 | 30/10/25 | 9 | Listening |  | Score Boost Strategies, Recovery Methods, Predictive Listening | [Video-Link]() | [Slide]() |
+| 2 | 5 | 31/10/25 | 10 | Listening |  | Timed Listening Test + Self-Evaluation | [Video-Link]() | [Slide]() |
 | 3 | 1 |  | 11 | Speaking |  | Format, Scoring, Independent vs Integrated Overview | [Video-Link]() | [Slide]() |
 | 3 | 2 |  | 12 | Speaking |  | Independent Speaking Organization, Idea Generation, Pronunciation | [Video-Link]() | [Slide]() |
 | 3 | 3 |  | 13 | Speaking |  | Integrated (Read+Listen+Speak), Summaries, Campus Tasks | [Video-Link]() | [Slide]() |
