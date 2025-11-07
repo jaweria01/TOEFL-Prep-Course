@@ -5,7 +5,7 @@
 
 ---
 
-## 👩‍🏫 Trainers  
+### 👩‍🏫 Trainers  
 - [Inzimam Ur Rehman](https://www.linkedin.com/in/inzimam-ur-rehman)
 - [Jaweria Siddique](https://www.linkedin.com/in/jaweria-siddique1/)  
 - [Usama Tariq](https://www.linkedin.com/in/usama-tariq-76076b210)  
@@ -46,7 +46,19 @@ This course is ideal for **students and professionals** aiming to pursue **highe
 2. [TestAdmit TOEFL Practice Tests](https://testadmit.com/toefl/?testType=quick&isNew=1)
 3. [[PDF book Guide](https://drive.google.com/file/d/1prhZ8cJsyVxDpGHNT8ic0PTPoh29xXRc/view?usp=sharing)]
 
-📘 *Additional readings will be provided during the course.*
+### 🎓 TOEFL Complete Slides Collection
+
+This folder contains all the presentation slides for the four TOEFL modules — Reading, Listening, Speaking, and Writing. Each slide deck includes strategies, templates, and practice materials designed to help students achieve high scores.  
+
+📂 [Access the Slides on Google Drive](https://drive.google.com/drive/folders/1_oS60Hl542lo2KtgbQM06_WIhn1u5i2n?usp=drive_link)
+
+### 🎥 TOEFL Course Recordings Playlist
+
+All live class recordings and walkthrough sessions are available on our official YouTube playlist.  
+Watch and review anytime to strengthen your TOEFL preparation!  
+
+📺 **YouTube Playlist:** [TOEFL Prep Course – Full Recordings](https://www.youtube.com/playlist?list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z)
+
 
 ---
 
@@ -177,18 +189,10 @@ Includes **Sentence Simplification**, **Insert Text**, **Prose Summary**, and **
 
 #### **Day 5: Full-Length TOEFL Mock Test**
 - Complete TOEFL practice test (timed)  
-- Individual feedback and strategy plan  
+- Individual feedback and strategy plan
 
 ---
-
-## 🎥 TOEFL Course Recordings Playlist
-
-All live class recordings and walkthrough sessions are available on our official YouTube playlist.  
-Watch and review anytime to strengthen your TOEFL preparation!  
-
-📺 **YouTube Playlist:** [TOEFL Prep Course – Full Recordings](https://www.youtube.com/playlist?list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z)
-
----
+ 
 
 # 📝 TOEFL 4-Week Intensive Course Plan
 
