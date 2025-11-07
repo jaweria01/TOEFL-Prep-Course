@@ -213,9 +213,9 @@ Watch and review anytime to strengthen your TOEFL preparation!
 | 2 | 5 | 31/10/25 | 10 | Listening | Jaweria | Timed Listening Test + Self-Evaluation | [Video-Link](https://www.youtube.com/watch?v=-kOgtSTTNaw&list=PLBXi_ryTbHgoMhJcCQFE489tHMqsaE77Z&index=1) | [Slide]() |
 | 3 | 1 | 3/11/25 | 11 | Speaking | Inzimam | Format, Scoring, Independent vs Integrated Overview | [Video-Link](https://youtu.be/iKvJrA2uas4) | [Slide](https://docs.google.com/presentation/d/1bOm48yM_2aZNUXpmRtj7M4VLY2g_pjF_2AIh2hwS4Mo/edit?usp=sharing) |
 | 3 | 2 | 4/11/25 | 12 | Speaking | Inzimam<br>Jaweria | Independent Speaking Organization, Idea Generation, Pronunciation | [Video-Link](https://youtu.be/BdPGRxUEGdE) | [Slide](https://docs.google.com/presentation/d/1-0iPolSVQ11VwsPAZHyd0ZcQtOQe7CTj981H7QgmNBk/edit?usp=sharing) |
-| 3 | 3 | 5/11/25 | 13 | Speaking |  | Integrated (Read+Listen+Speak), Summaries, Campus Tasks | [Video-Link]() | [Slide]() |
-| 3 | 4 | 6/11/25 | 14 | Speaking |  | Integrated Lecture Response, Transitions, Delivery Improvement | [Video-Link]() | [Slide]() |
-| 3 | 5 | 7/11/25 | 15 | Speaking |  | Full Speaking Simulation + Feedback | [Video-Link]() | [Slide]() |
+| 3 | 3 | 5/11/25 | 13 | Speaking |  | Integrated (Read+Listen+Speak), Summaries, Campus Tasks | [Video-Link](https://youtube.com/live/eKwf2hfySa4?feature=share) | [Slide](https://docs.google.com/presentation/d/1N9RGMqGoPUaSfguQ5fy5dsZn2tlmpiT8niZs0BQCNNs/edit?usp=sharing) |
+| 3 | 4 | 6/11/25 | 14 | Speaking |  | Integrated Lecture Response, Transitions, Delivery Improvement | [Video-Link](https://youtu.be/rjPnhMowTJY) | [Slide](https://docs.google.com/presentation/d/1Lgrdmfu6ADuWwzW4BExZkoPAaLOSeCOds26wFZgXPCQ/edit?usp=sharing) |
+| 3 | 5 | 7/11/25 | 15 | Speaking |  | Full Speaking Simulation + Feedback | [Video-Link](https://youtube.com/live/hGekmjbX2OY?feature=share) | [Slide](https://docs.google.com/presentation/d/1t0CMA7USEH1Aq2C-Ge9vaFmu-zsgqmQWWmhK7J0qjMc/edit?usp=sharing) |
 | 4 | 1 | 10/11/25 | 16 | Writing |  | Writing Format, Rubrics, Sample Essay Analysis | [Video-Link]() | [Slide]() |
 | 4 | 2 | 11/11/25 | 17 | Writing |  | Integrated Writing (R+L+W), Paraphrasing, Connectors | [Video-Link]() | [Slide]() |
 | 4 | 3 | 12/11/25 | 18 | Writing |  | Independent Essay Structure, Cohesion, Transitions | [Video-Link]() | [Slide]() |
