@@ -223,8 +223,8 @@ Includes **Sentence Simplification**, **Insert Text**, **Prose Summary**, and **
 | 4 | 1 | 10/11/25 | 16 | Writing | Inzimam<br>Jaweria | Writing Format, Rubrics, Sample Essay Analysis | [Video-Link](https://www.youtube.com/live/jX28ju6DSwg?si=L3wDccLGqaaBKCrr) | [Slide](https://docs.google.com/presentation/d/10VOAlkqoFF3O7MTEDaY5ErgdYYVpMqg_kS2YebIbPu0/edit?usp=sharing) |
 | 4 | 2 | 11/11/25 | 17 | Writing | Inzimam<br>Jaweria | Integrated Writing (R+L+W), Paraphrasing, Connectors | [Video-Link](https://www.youtube.com/live/lHzvm7kkOB0?si=YT-zYhpYb5wlHPfT) | [Slide](https://docs.google.com/presentation/d/1Zf-HsR56Y4XJjYBZyvxF28VmTtKCGLO2yIybCRYLjmM/edit?usp=sharing) |
 | 4 | 3 | 12/11/25 | 18 | Writing | Inzimam<br>Jaweria | Academic Discussion Essay Structure, Cohesion, Transitions, W-Task2 practice | [Video-Link](https://www.youtube.com/live/1SNeDrBEFf4?si=FUnhhSAFfQG-8rtu) | [Slide](https://docs.google.com/presentation/d/1AI5fLaGTSGzoNyHGvQN5_KPmGfvEDZh7qgf6tjLIscA/edit?usp=sharing) |
-| 4 | 4 | 13/11/25 | 19 | Writing |  | Grammar Issues, Academic Vocabulary, WritingTask1Practice | [Video-Link](https://www.youtube.com/live/VjZB13iC5j4?si=TQ_k2na5bTBs2gby) | [Slide](https://docs.google.com/presentation/d/1mSoYWu2D3gN3JP5zrNJzeh0reQMKdfO6JIuXYAxpL9o/edit?usp=sharing) |
-| 4 | 5 | 14/11/25 | 20 | Writing |  | Full TOEFL Mock Test + Strategy Plan | [Video-Link](https://www.youtube.com/live/gbJNUkqUF58?si=ngT6XpTXczd_f3qx) | [Slide]() |
+| 4 | 4 | 13/11/25 | 19 | Writing | Inzimam<br>Jaweria | Grammar Issues, Academic Vocabulary, WritingTask1Practice | [Video-Link](https://www.youtube.com/live/VjZB13iC5j4?si=TQ_k2na5bTBs2gby) | [Slide](https://docs.google.com/presentation/d/1mSoYWu2D3gN3JP5zrNJzeh0reQMKdfO6JIuXYAxpL9o/edit?usp=sharing) |
+| 4 | 5 | 14/11/25 | 20 | Writing | Inzimam<br>Jaweria | Full TOEFL Mock Test + Strategy Plan | [Video-Link](https://www.youtube.com/live/gbJNUkqUF58?si=ngT6XpTXczd_f3qx) | [Slide]() |
 
 
 ---
